@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91175931193",
+    "firebase_url": "https://flutter-chat-a0028.firebaseio.com",
+    "project_id": "flutter-chat-a0028",
+    "storage_bucket": "flutter-chat-a0028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91175931193:android:b839d5833d5516e8bdace8",
+        "android_client_info": {
+          "package_name": "co.voon.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91175931193-lpfqs88tb40fplrgu9bjqqaqsth5m8lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MQJr_iAhUwM--uB7b_NyszcMHZrm1ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91175931193-lpfqs88tb40fplrgu9bjqqaqsth5m8lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
